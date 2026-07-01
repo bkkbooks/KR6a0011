@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6a0011/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 尼拘陀梵志經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T01/T01n0011.xml
+    old_id: T01n0011
+hash: sha256:1bb8d40dccf3555808274bfd0c8f7b8fd1b4ec0936e847e476269ffefd7bad78
